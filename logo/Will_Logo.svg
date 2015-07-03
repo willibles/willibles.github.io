@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Will_Logo.svg">
+  <title
+     id="title3787">Willerator Logo</title>
+  <defs
+     id="defs2987">
+    <linearGradient
+       id="linearGradient3777">
+      <stop
+         style="stop-color:#0b76ff;stop-opacity:1;"
+         offset="0"
+         id="stop3779" />
+      <stop
+         id="stop3785"
+         offset="0.5"
+         style="stop-color:#2fa6e1;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#2fa6e1;stop-opacity:0;"
+         offset="1"
+         id="stop3781" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.25"
+     inkscape:cx="19.471698"
+     inkscape:cy="32"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Willerator Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="arc"
+       style="fill:#0169c9;fill-opacity:1;stroke:none"
+       id="path2993"
+       sodipodi:cx="32"
+       sodipodi:cy="32"
+       sodipodi:rx="32.07547"
+       sodipodi:ry="32"
+       d="M 64.07547,32 A 32.07547,32 0 1 1 -0.07546997,32 32.07547,32 0 1 1 64.07547,32 z" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0197fd;fill-opacity:1;stroke:none"
+       id="path3775"
+       sodipodi:cx="32.07547"
+       sodipodi:cy="32.07547"
+       sodipodi:rx="31.924528"
+       sodipodi:ry="32"
+       d="m 63.999998,32.07547 a 31.924528,32 0 1 1 -63.84905615,-2e-6 l 31.92452815,2e-6 z"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       transform="matrix(0.70877845,-0.70877845,0.70710678,0.70710678,-13.487766,32.053619)" />
+    <path
+       style="fill:#96f0ff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 9.5000001,17.5 C 21.037725,49.673694 27.268098,38.553753 21.037725,49.673694 14.807354,60.793635 9.5000001,17.5 9.5000001,17.5 z"
+       id="path2999"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3001"
+       d="M 55.500001,17.6 C 43.962276,49.679065 37.731903,38.59183 43.962276,49.679065 50.192647,60.766301 55.500001,17.6 55.500001,17.6 z"
+       style="fill:#96f0ff;stroke:none;stroke-width:0.99999994000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#96f0ff;fill-opacity:1;stroke:none"
+       id="path3773"
+       sodipodi:cx="31.962265"
+       sodipodi:cy="31.35849"
+       sodipodi:rx="0.03773585"
+       sodipodi:ry="18.679245"
+       d="m 32.000001,31.35849 a 0.03773585,18.679245 0 1 1 -0.07547,0 0.03773585,18.679245 0 1 1 0.07547,0 z"
+       transform="matrix(52.999999,0,0,0.9368687,-1662,1.1212123)" />
+  </g>
+</svg>
