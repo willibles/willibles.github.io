@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Will_Logo.svg">
+  <title
+     id="title3787">Willerator Logo</title>
+  <defs
+     id="defs2987">
+    <linearGradient
+       id="linearGradient3777">
+      <stop
+         style="stop-color:#0b76ff;stop-opacity:1;"
+         offset="0"
+         id="stop3779" />
+      <stop
+         id="stop3785"
+         offset="0.5"
+         style="stop-color:#2fa6e1;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#2fa6e1;stop-opacity:0;"
+         offset="1"
+         id="stop3781" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.828125"
+     inkscape:cx="512.00001"
+     inkscape:cy="512"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Willerator Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-1.126709e-8,960)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#0169c9;fill-opacity:1;stroke:none"
+       id="path2993"
+       sodipodi:cx="32"
+       sodipodi:cy="32"
+       sodipodi:rx="32.07547"
+       sodipodi:ry="32"
+       d="M 64.07547,32 C 64.07547,49.673112 49.714793,64 32,64 14.285207,64 -0.07546997,49.673112 -0.07546997,32 -0.07546997,14.326888 14.285207,0 32,0 49.714793,0 64.07547,14.326888 64.07547,32 z"
+       transform="matrix(15.962354,0,0,16,1.2046784,-960)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0197fd;fill-opacity:1;stroke:none"
+       id="path2992"
+       sodipodi:cx="77.958519"
+       sodipodi:cy="14.325748"
+       sodipodi:rx="29.875261"
+       sodipodi:ry="32.350136"
+       d="m 106.03208,25.390147 c -4.2956,12.779767 -15.514049,21.285737 -28.07356,21.285737 l -10e-7,-32.350136 z"
+       sodipodi:start="0.34906585"
+       sodipodi:end="1.5707963"
+       transform="matrix(17.137925,0,0,15.826826,-824.0473,-674.73111)" />
+    <path
+       transform="matrix(17.137925,0,0,15.826826,-824.0473,-674.73111)"
+       sodipodi:end="4.712389"
+       sodipodi:start="3.4906585"
+       d="M 49.884956,3.2613505 C 54.180562,-9.5184176 65.399008,-18.024388 77.95852,-18.024387 l -10e-7,32.350135 z"
+       sodipodi:ry="32.350136"
+       sodipodi:rx="29.875261"
+       sodipodi:cy="14.325748"
+       sodipodi:cx="77.958519"
+       id="path2994"
+       style="fill:#0197fd;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       style="fill:#96f0ff;fill-opacity:1;stroke:none"
+       d="m 152,-680 c 184.6036,514.7791 284.28957,336.86004 184.6036,514.7791 C 236.91766,12.698155 152,-680 152,-680 z"
+       id="path2999"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3001"
+       d="M 888.00002,-678.4 C 703.39642,-165.13496 603.71045,-342.53072 703.39642,-165.13496 803.08235,12.260811 888.00002,-678.4 888.00002,-678.4 z"
+       style="fill:#96f0ff;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#96f0ff;fill-opacity:1;stroke:none"
+       id="path3773"
+       sodipodi:cx="31.962265"
+       sodipodi:cy="31.35849"
+       sodipodi:rx="0.03773585"
+       sodipodi:ry="18.679245"
+       d="m 32.000001,31.35849 c 0,10.316262 -0.01689,18.679245 -0.03774,18.679245 -0.02084,0 -0.03774,-8.362983 -0.03774,-18.679245 0,-10.316262 0.0169,-18.679245 0.03774,-18.679245 0.02084,0 0.03774,8.362983 0.03774,18.679245 z"
+       transform="matrix(847.99999,0,0,14.989899,-26592,-942.0606)" />
+  </g>
+</svg>
